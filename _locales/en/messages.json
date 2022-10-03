@@ -1,0 +1,17 @@
+{
+  "name": {
+    "message": "jumin's finest"
+  },
+  "description": {
+    "message": "an awesome site made for an awesome person like you"
+  },
+  "play": {
+    "message": "Start"
+  },
+  "got_it": {
+    "message": "OK, got it"
+  },
+  "installed": {
+    "message": "Game extension is installed"
+  }
+}
